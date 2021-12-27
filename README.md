@@ -11,7 +11,7 @@
 - I'm currently learning more about web and mobile development
 - I'm learning react and flutter
 - Angular is my favorite framework currently
-- my email [:email: cristhian](cristhianingsis@gmail.com)
+- my email (cristhianingsis@gmail.com)
 
 [![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/CrissVargasUAGRM)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-vargas-quiroz-309574210/)
