@@ -13,8 +13,6 @@
 - Angular is my favorite framework currently
 - my email [:email: cristhian](cristhianingsis@gmail.com)
 
-![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
 [![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/CrissVargasUAGRM)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-vargas-quiroz-309574210/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NMvXJpxg)
@@ -44,4 +42,4 @@
 [![MongoDB](https://img.shields.io/badge/-mongodb-61DAFB?logo=mongodb&style=for-the-badge&color=white)](https://www.mongodb.com)
 [![SQLserver](https://img.shields.io/badge/SQLserver-0077B5?style=for-the-badge&logo=sqlserver&logoColor=blue)](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
-# I have a big interest to learn new tecnologies
+## I have a big interest to learn new tecnologies!!!!
