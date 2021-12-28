@@ -6,11 +6,11 @@
   <img align="right" alt="GIF" height="160px" src="https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv" />
 </a>
 
-## I'm a student of engineering systems, I go in last semester, I like tecnologies frontend.
+## I'm a student of engineering systems, I like tecnologies frontend.
 
 - I'm currently learning more about web and mobile development
 - I'm learning react and flutter
-- Angular is my favorite framework currently
+- Angular <3
 - my email (cristhianingsis@gmail.com)
 
 [![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/CrissVargasUAGRM)
